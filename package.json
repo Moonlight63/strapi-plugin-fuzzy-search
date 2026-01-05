@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-fuzzy-search",
+  "name": "@dalencatt/strapi-plugin-fuzzy-search-private",
   "version": "0.0.0-development",
   "description": "Register a weighted fuzzy search endpoint for Strapi Headless CMS you can add your content types to in no time.",
   "strapi": {

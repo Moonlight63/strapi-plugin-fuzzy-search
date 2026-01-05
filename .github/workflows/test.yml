@@ -1,7 +1,7 @@
 name: Test
 on:
   pull_request:
-    branches: [1.x, main, beta]
+    branches: [1.x, main, beta, beta-private]
   workflow_dispatch:
 jobs:
   test:
